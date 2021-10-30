@@ -1,11 +1,12 @@
 # Hola soy Gabriela Desarrolladora Front-end
 
 ![Desk Icon (1)](https://user-images.githubusercontent.com/82047077/139560461-fcf01869-bde3-4b17-8ec5-cd56a03bfcdd.jpg)
-
+![github1](https://user-images.githubusercontent.com/82047077/139560493-c25f5e5d-e940-4c17-b5e0-63c1956b0233.jpg)
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
