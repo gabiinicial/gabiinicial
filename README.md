@@ -13,7 +13,7 @@
 - Autoaprendizaje y autogestión 
 
 ## Herramientas
- ![angular](https://user-images.githubusercontent.com/82047077/139560873-d0c863dc-12b5-44cb-8ba1-d4cdc3250e4d.png)
+ ![an](https://user-images.githubusercontent.com/82047077/139561015-f1ef4751-c5a0-4d7e-ab40-b0a1d45a6279.png)
 ![3](https://user-images.githubusercontent.com/82047077/139561006-ab271628-86f7-40b9-95e8-4643ffa5d94c.png)
 ![m](https://user-images.githubusercontent.com/82047077/139560940-ca894977-cea6-470a-8a19-4fb55f8385a6.png)
 ![bootstrap](https://user-images.githubusercontent.com/82047077/139560984-436e0737-4ce1-49fa-8eda-b96895a9aa3f.png)
