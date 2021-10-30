@@ -13,9 +13,9 @@
 - Autoaprendizaje y autogestión 
 
 ## Herramientas
-- framework(Angular)
-- Node.js
-- Materialize
+- ![angular](https://user-images.githubusercontent.com/82047077/139560873-d0c863dc-12b5-44cb-8ba1-d4cdc3250e4d.png)framework(Angular)
+- ![nodejs](https://user-images.githubusercontent.com/82047077/139560889-ef887e9e-d540-444d-b9a0-bb92ed49a1f6.png)Node.js
+- ![m](https://user-images.githubusercontent.com/82047077/139560940-ca894977-cea6-470a-8a19-4fb55f8385a6.png)Materialize
 - Bootstrap
 - Figma
--->
+
