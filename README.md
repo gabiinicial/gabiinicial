@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hola soy Gabriela Desarrolladora Front-end
+![Small Things](https://user-images.githubusercontent.com/82047077/139560458-218d5a74-b505-4b24-bd2b-f4c537e08cb4.jpg)
 
-<!--
-**gabiinicial/gabiinicial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
