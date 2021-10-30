@@ -1,6 +1,5 @@
 # Soy Gabriela Desarrolladora Front-end 👩🏽‍💻👋
-![github1](https://user-images.githubusercontent.com/82047077/139560493-c25f5e5d-e940-4c17-b5e0-63c1956b0233.jpg)
-
+![](https://i.pinimg.com/564x/8d/85/6d/8d856d73c15c6281d004b33f291412bf.jpg)
 ## Lenguajes de programación
 
 - ![javascript](https://user-images.githubusercontent.com/82047077/139560796-17a31bd8-bd72-48ec-86c2-62ad1eb9efbf.png)**JavaScript**
