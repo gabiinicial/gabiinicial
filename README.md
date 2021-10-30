@@ -1,4 +1,4 @@
-# Hola soy Gabriela Desarrolladora Front-end 👩🏽‍💻👋
+# Soy Gabriela Desarrolladora Front-end 👩🏽‍💻👋
 ![github1](https://user-images.githubusercontent.com/82047077/139560493-c25f5e5d-e940-4c17-b5e0-63c1956b0233.jpg)
 
 ## Lenguajes de programación
@@ -24,4 +24,5 @@
 - bootstrap
 - Figma
 
+**En este repositorio encontraran los trabajos que he realizado y espero que este satisfecho con lo que vera!!
 
