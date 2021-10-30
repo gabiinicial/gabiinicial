@@ -1,5 +1,6 @@
 # Hola soy Gabriela Desarrolladora Front-end
-![Small Things](https://user-images.githubusercontent.com/82047077/139560458-218d5a74-b505-4b24-bd2b-f4c537e08cb4.jpg)
+
+![Desk Icon (1)](https://user-images.githubusercontent.com/82047077/139560461-fcf01869-bde3-4b17-8ec5-cd56a03bfcdd.jpg)
 
 
 Here are some ideas to get you started:
