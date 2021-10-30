@@ -14,9 +14,10 @@
 
 ## Herramientas
  ![angular](https://user-images.githubusercontent.com/82047077/139560873-d0c863dc-12b5-44cb-8ba1-d4cdc3250e4d.png)
- ![nodejs](https://user-images.githubusercontent.com/82047077/139560889-ef887e9e-d540-444d-b9a0-bb92ed49a1f6.png)
+![3](https://user-images.githubusercontent.com/82047077/139561006-ab271628-86f7-40b9-95e8-4643ffa5d94c.png)
 ![m](https://user-images.githubusercontent.com/82047077/139560940-ca894977-cea6-470a-8a19-4fb55f8385a6.png)
 ![bootstrap](https://user-images.githubusercontent.com/82047077/139560984-436e0737-4ce1-49fa-8eda-b96895a9aa3f.png)
 ![figma](https://user-images.githubusercontent.com/82047077/139560992-9087395b-f8e3-4a57-9a7e-b139ba351d8e.png)
+
 
 
