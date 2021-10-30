@@ -24,5 +24,5 @@
 - bootstrap
 - Figma
 
-**En este repositorio encontraran los trabajos que he realizado y espero que este satisfecho con lo que vera!!**
+🤝😊**En este repositorio encontraran los trabajos que he realizado y espero que este satisfecho con lo que vera!!**
 
