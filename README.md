@@ -17,7 +17,7 @@
 ![m](https://user-images.githubusercontent.com/82047077/139560940-ca894977-cea6-470a-8a19-4fb55f8385a6.png)
 ![bootstrap](https://user-images.githubusercontent.com/82047077/139560984-436e0737-4ce1-49fa-8eda-b96895a9aa3f.png)
 ![figma](https://user-images.githubusercontent.com/82047077/139560992-9087395b-f8e3-4a57-9a7e-b139ba351d8e.png)
-- Angular(frameword)
+- Angular(framework)
 - Node.js
 - Materialize
 - bootstrap
