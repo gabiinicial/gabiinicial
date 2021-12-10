@@ -5,7 +5,7 @@
 </p>
 
 ## Lenguajes de programación
-<img width="100" src="https://user-images.githubusercontent.com/82047077/145621338-d8a54717-43ce-4cdb-9dbc-1e9c28045db9.png"> **JavaScript**  <img width="100" src="https://user-images.githubusercontent.com/82047077/145621659-775a8f3c-d33d-4f13-bcf1-65c54842b06e.png"> #### HTML <img width="100" src="https://user-images.githubusercontent.com/82047077/145621766-17b8c5a5-be40-48df-b88a-495341aee22e.png"> #### **CSS**  <img width="100" src="https://user-images.githubusercontent.com/82047077/145621886-4ab15f86-9871-4a65-803d-9e5db77027ba.png"> #### **TypeScript**
+<img width="100" src="https://user-images.githubusercontent.com/82047077/145621338-d8a54717-43ce-4cdb-9dbc-1e9c28045db9.png"> **JavaScript**  <img width="100" src="https://user-images.githubusercontent.com/82047077/145621659-775a8f3c-d33d-4f13-bcf1-65c54842b06e.png"> **HTML** <img width="100" src="https://user-images.githubusercontent.com/82047077/145621766-17b8c5a5-be40-48df-b88a-495341aee22e.png">  **CSS**  <img width="100" src="https://user-images.githubusercontent.com/82047077/145621886-4ab15f86-9871-4a65-803d-9e5db77027ba.png">  **TypeScript**
 
  ## Habilidades
 - Pensamiento critico
