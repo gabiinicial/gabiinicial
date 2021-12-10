@@ -5,8 +5,7 @@
 </p>
 
 ## Lenguajes de programación
-**JavaScript**
-<img width="100" src="https://user-images.githubusercontent.com/82047077/145624823-e01af3a3-4482-4721-910c-82e019f74fab.png">
+<img width="1000" src="https://user-images.githubusercontent.com/82047077/145624823-e01af3a3-4482-4721-910c-82e019f74fab.png">
 
  ## Habilidades
 - Pensamiento critico
