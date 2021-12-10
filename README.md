@@ -1,5 +1,5 @@
-# Soy Gabriela Desarrolladora Front-end 👩🏽‍💻👋
-<img src="https://i.pinimg.com/564x/8d/85/6d/8d856d73c15c6281d004b33f291412bf.jpg" alt="drawing" width="300">
+# Soy Gabriela Desarrolladora Front-end 👩🏽‍💻👋j
+<span style="display:block;text-align:center"><img src="https://i.pinimg.com/564x/8d/85/6d/8d856d73c15c6281d004b33f291412bf.jpg" alt="drawing" width="300">
 
 ## Lenguajes de programación
 
