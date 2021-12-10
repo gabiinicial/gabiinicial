@@ -1,7 +1,7 @@
 # Soy Gabriela Desarrolladora Front-end 👩🏽‍💻👋
 
 <p align="center">
-<img  src="https://i.pinimg.com/564x/8d/85/6d/8d856d73c15c6281d004b33f291412bf.jpg">
+<img width="400" src="https://i.pinimg.com/564x/8d/85/6d/8d856d73c15c6281d004b33f291412bf.jpg">
 </p>
 
 ## Lenguajes de programación
@@ -16,6 +16,9 @@
 - Autoaprendizaje y autogestión 
 
 ## Herramientas
+
+<img  width="300" src="https://user-images.githubusercontent.com/82047077/145615766-964bb138-e8aa-4776-8ce5-2f1556065ee9.png">
+
  ![an](https://user-images.githubusercontent.com/82047077/139561015-f1ef4751-c5a0-4d7e-ab40-b0a1d45a6279.png)
 ![3](https://user-images.githubusercontent.com/82047077/139561006-ab271628-86f7-40b9-95e8-4643ffa5d94c.png)
 ![m](https://user-images.githubusercontent.com/82047077/139560940-ca894977-cea6-470a-8a19-4fb55f8385a6.png)
@@ -29,4 +32,3 @@
 
 🤝😊
 
-![Uploading collage.png…  width="400"]()
