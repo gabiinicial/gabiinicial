@@ -5,7 +5,7 @@
 </p>
 
 ## Lenguajes de programación
-<img width="100" src="https://user-images.githubusercontent.com/82047077/139560796-17a31bd8-bd72-48ec-86c2-62ad1eb9efbf.png"> **JavaScript** ➖  <img width="100" src="https://user-images.githubusercontent.com/82047077/139560807-a488362c-bc55-4396-b8cf-36c806c10c68.png"> **HTML** ➖ <img width="100" src="https://user-images.githubusercontent.com/82047077/139560812-c207812b-b08d-4e0c-b8f5-2eae26baa04b.png"> **CSS** ➖ <img width="100" src="https://user-images.githubusercontent.com/82047077/139560825-69761969-b1fb-4932-9459-71f5bcd3485c.png"> **TypeScript**
+<img width="100" src="https://user-images.githubusercontent.com/82047077/145621338-d8a54717-43ce-4cdb-9dbc-1e9c28045db9.png"> **JavaScript** ➖  <img width="100" src="https://user-images.githubusercontent.com/82047077/139560807-a488362c-bc55-4396-b8cf-36c806c10c68.png"> **HTML** ➖ <img width="100" src="https://user-images.githubusercontent.com/82047077/139560812-c207812b-b08d-4e0c-b8f5-2eae26baa04b.png"> **CSS** ➖ <img width="100" src="https://user-images.githubusercontent.com/82047077/139560825-69761969-b1fb-4932-9459-71f5bcd3485c.png"> **TypeScript**
 
  ## Habilidades
 - Pensamiento critico
