@@ -25,6 +25,8 @@
 - Node.js
 - Materialize
 - bootstrap
-- Figma
+- Figma![collage](https://user-images.githubusercontent.com/82047077/145615766-964bb138-e8aa-4776-8ce5-2f1556065ee9.png)
+
 🤝😊
 
+![Uploading collage.png…]()
