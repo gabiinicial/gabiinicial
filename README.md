@@ -13,7 +13,7 @@
 
 ## Herramientas
 
-<img align="right" width="390" height="380" src="https://user-images.githubusercontent.com/82047077/145615766-964bb138-e8aa-4776-8ce5-2f1556065ee9.png">
+<img align="right" width="390" height="380" src="https://user-images.githubusercontent.com/82047077/145646122-d670c5e9-3d28-4dc1-b6cd-e9e8359a56cc.png">
 
 
  * ### Angular(framework)
