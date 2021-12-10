@@ -5,7 +5,7 @@
 </p>
 
 ## Lenguajes de programación
-<img width="1000" src="https://user-images.githubusercontent.com/82047077/145624823-e01af3a3-4482-4721-910c-82e019f74fab.png">
+<img width="1000" src="https://user-images.githubusercontent.com/82047077/145626187-4cf2ac9b-da37-4c7b-8fed-1b3f32a70dd9.png">
 
  ## Habilidades
 - Pensamiento critico
