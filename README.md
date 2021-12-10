@@ -8,8 +8,8 @@
 <img width="900" src="https://user-images.githubusercontent.com/82047077/145626187-4cf2ac9b-da37-4c7b-8fed-1b3f32a70dd9.png">
 
  ## Habilidades
-- Pensamiento critico
-- Autoaprendizaje y autogestión 
+- ### Pensamiento critico
+- ### Autoaprendizaje y autogestión 
 
 ## Herramientas
 
