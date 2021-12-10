@@ -17,13 +17,8 @@
 
 ## Herramientas
 
-<img  width="300" src="https://user-images.githubusercontent.com/82047077/145615766-964bb138-e8aa-4776-8ce5-2f1556065ee9.png">
+<img align="left" width="400" src="https://user-images.githubusercontent.com/82047077/145615766-964bb138-e8aa-4776-8ce5-2f1556065ee9.png">
 
- ![an](https://user-images.githubusercontent.com/82047077/139561015-f1ef4751-c5a0-4d7e-ab40-b0a1d45a6279.png)
-![3](https://user-images.githubusercontent.com/82047077/139561006-ab271628-86f7-40b9-95e8-4643ffa5d94c.png)
-![m](https://user-images.githubusercontent.com/82047077/139560940-ca894977-cea6-470a-8a19-4fb55f8385a6.png)
-![bootstrap](https://user-images.githubusercontent.com/82047077/139560984-436e0737-4ce1-49fa-8eda-b96895a9aa3f.png)
-![figma](https://user-images.githubusercontent.com/82047077/139560992-9087395b-f8e3-4a57-9a7e-b139ba351d8e.png)
 - Angular(framework)
 - Node.js
 - Materialize
