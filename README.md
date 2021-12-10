@@ -1,5 +1,5 @@
 # Soy Gabriela Desarrolladora Front-end 👩🏽‍💻👋j
-<span style="display:block;align:center; border: 1px solid red">![](https://i.pinimg.com/564x/8d/85/6d/8d856d73c15c6281d004b33f291412bf.jpg)</span>
+<span display:block;align:center; border:1px solid red>![](https://i.pinimg.com/564x/8d/85/6d/8d856d73c15c6281d004b33f291412bf.jpg)</span>
 
 ## Lenguajes de programación
 
