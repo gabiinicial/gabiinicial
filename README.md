@@ -16,9 +16,9 @@
 - Autoaprendizaje y autogestión 
 
 ## Herramientas
-<p padding-right: "400">
-<img align="left" width="400" src="https://user-images.githubusercontent.com/82047077/145615766-964bb138-e8aa-4776-8ce5-2f1556065ee9.png">
-</p>
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/82047077/145615766-964bb138-e8aa-4776-8ce5-2f1556065ee9.png">
+
 
     ▪️  Angular(framework)
     ▪️  Node.js
